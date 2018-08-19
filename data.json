@@ -1,0 +1,56 @@
+{
+	"details":{
+		"image1":"image1.png",
+		"name":"bhargavi",
+		"phoneno":"+91-7095382857",
+		"email":"jayabhargavi8@gmail.com",
+		"address":"vignan nirula college"
+	},
+	"career":{
+		"info":"To persue a challenging career."
+	},
+	"education":[{
+		"qualification":"B.tech",
+		"Institute":"vignan nirula college",
+		"year":"2016-2020",
+		"percentage":"98%"
+	},
+	{
+		"qualification":"inter",
+		"Institute":"sri chaitanya jr college",
+		"year":"2014-2016",
+		"percentage":"88%"
+	},
+	{
+		"qualification":"SSC",
+		"Institute":"sri venakateswara bala kuteer",
+        "year":"2014",
+        "percentage":"82%"
+	}],
+	"skills":[{
+        "title":"programming language",
+        "info":["c","c++","java","python","R"]
+    },
+    {
+    	"title":"databases",
+    	"info":["oracle","sql","my sql"]
+    },
+    {
+    	"title":"operating system",
+    	"info":["windows","linux","mac","ubuntc"]
+    }	
+    ],
+    "achievements":[{
+    	
+    	"info":"1st in drawing"
+    },
+    {
+    	"info":"2nd in group discussion"
+    },
+    {
+    	"info":"3rd in PPT."
+    }
+    ]
+
+}    
+
